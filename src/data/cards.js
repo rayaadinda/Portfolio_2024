@@ -3,7 +3,7 @@ export const cardsData = [
 		title: "Redesign Product Detail Page",
 		description:
 			"Revamp the product detail page for better readability and user engagement.",
-		image: "/src/assets/Hero.png",
+		image: "/assets/Hero.png",
 		dateRange: {
 			start: "02 Sept",
 			end: "25 Sept",
@@ -29,7 +29,7 @@ export const cardsData = [
 		title: "Redesign Product Detail Page",
 		description:
 			"Revamp the product detail page for better readability and user engagement.",
-		image: "/src/assets/Hero.png",
+		image: "/assets/Hero.png",
 		dateRange: {
 			start: "02 Sept",
 			end: "25 Sept",
@@ -55,7 +55,7 @@ export const cardsData = [
 		title: "Redesign Product Detail Page",
 		description:
 			"Revamp the product detail page for better readability and user engagement.",
-		image: "/src/assets/Hero.png",
+		image: "/assets/Hero.png",
 		dateRange: {
 			start: "02 Sept",
 			end: "25 Sept",
@@ -81,7 +81,7 @@ export const cardsData = [
 		title: "Redesign Product Detail Page",
 		description:
 			"Revamp the product detail page for better readability and user engagement.",
-		image: "/src/assets/Hero.png",
+		image: "/assets/Hero.png",
 		dateRange: {
 			start: "02 Sept",
 			end: "25 Sept",

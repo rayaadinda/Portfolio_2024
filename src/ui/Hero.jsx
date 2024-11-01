@@ -187,7 +187,7 @@ function Hero() {
 										className="absolute -top-44 -right-4 w-24 md:w-32"
 									>
 										<img
-											src="/src/assets/ilus.svg"
+											src="/assets/ilus.svg"
 											alt="Character illustration"
 											className="w-full h-auto"
 										/>
