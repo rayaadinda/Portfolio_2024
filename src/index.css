@@ -5,5 +5,43 @@
 @layer base {
 	html {
 		font-family: Inter, system-ui, sans-serif;
+		scroll-behavior: smooth;
 	}
+}
+
+@layer utilities {
+	.custom-cursor {
+		cursor: none;
+	}
+
+	.cursor-dot {
+		width: 5px;
+		height: 5px;
+		background: theme("colors.blue");
+	}
+
+	.cursor-outline {
+		width: 30px;
+		height: 30px;
+		border: 2px solid theme("colors.blue");
+	}
+}
+
+.hover-underline {
+	position: relative;
+}
+
+.hover-underline::after {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 2px;
+	bottom: -2px;
+	left: 0;
+	background-color: currentColor;
+	transition: width 0.3s ease;
+}
+
+.hover-underline:hover::after {
+	width: 100%;
 }

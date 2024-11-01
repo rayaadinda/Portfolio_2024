@@ -47,8 +47,7 @@ export const cardsData = [
 			{ id: "2", text: "UI", color: "#10B981" },
 		],
 		assignees: [
-			{ id: "1", avatar: "/path/to/avatar1.jpg", name: "John Doe" },
-			{ id: "2", avatar: "/path/to/avatar2.jpg", name: "Jane Smith" },
+			{ id: "1", avatar: "/src/assets/avatar.jpg", name: "Raya Adinda" },
 		],
 	},
 
@@ -74,8 +73,7 @@ export const cardsData = [
 			{ id: "2", text: "UI", color: "#10B981" },
 		],
 		assignees: [
-			{ id: "1", avatar: "/path/to/avatar1.jpg", name: "John Doe" },
-			{ id: "2", avatar: "/path/to/avatar2.jpg", name: "Jane Smith" },
+			{ id: "1", avatar: "/src/assets/avatar.jpg", name: "Raya Adinda" },
 		],
 	},
 
@@ -101,8 +99,7 @@ export const cardsData = [
 			{ id: "2", text: "UI", color: "#10B981" },
 		],
 		assignees: [
-			{ id: "1", avatar: "/path/to/avatar1.jpg", name: "John Doe" },
-			{ id: "2", avatar: "/path/to/avatar2.jpg", name: "Jane Smith" },
+			{ id: "1", avatar: "/src/assets/avatar.jpg", name: "Raya Adinda" },
 		],
 	},
 	// You can add more cards here
